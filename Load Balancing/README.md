@@ -1,4 +1,4 @@
-# NGINX as a Load Balancer
+# NGINX as a Load Balancer ⚖️
 
 ![alt text](image.png)
 
